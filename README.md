@@ -19,7 +19,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeann3th&show_icons=true&locale=en&layout=compact" alt="zeann3th" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeann3th&show_icons=true" alt="zeann3th" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeann3th&show_icons=true&locale=en" alt="zeann3th" /></p>
 
