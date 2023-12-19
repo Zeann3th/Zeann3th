@@ -2,7 +2,7 @@
 
 **`Data Scientist wanna-be`**
 
-I'm a second-year student in Hanoi University of Science and Technology, majoring in Computer Science. Eventhough my path of becoming a Data Scientist is not filled with roses, i will keep trying and achieve my goals.
+I'm a second-year student in [Hanoi University of Science and Technology](https://hust.edu.vn/), majoring in Computer Science. Eventhough my path of becoming a Data Scientist is not filled with roses, i will keep trying and achieve my goals.
 > strive for excellence
 # 
 ### Languages and Tools
